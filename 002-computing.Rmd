@@ -11,7 +11,18 @@ IF YOUR WORKSHOP INCLUDES COMPUTE:
 # Data and Compute Setup
 
 #### Course data downloads
-Coming soon!
+- [Data](https://hpc4health.ca/cbw/2024/ISO/data.tar.gz)
+- [Images](https://hpc4health.ca/cbw/2024/ISO/images.tar.gz)
+- [spatial_analysis_workshop](https://hpc4health.ca/cbw/2024/ISO/spatial_analysis_workshop_iso2024.tar.gz)
 
 #### Compute setup
-Coming soon!
+We have made our AWS AMI (Amazon Machine Image) publicly available. To launch your own instance, follow the instructions provided by Amazon on [how to launch an EC2 instance from a custom Amazon Machine Image](https://repost.aws/knowledge-center/launch-instance-custom-ami). Please note that you will need an AWS account to proceed, and that you will need to upload the CourseData files yourself.
+
+Here are the details of the AMI:
+
+AWS Region: us-east-1 (N. Virgina)
+AMI type: public image
+AMI name: CBW_ISO_240702
+AMI ID: ami-0e35aedc51010d5b4
+
+If you want to create and activate a new AWS account, please follow the [instructions](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/) provided by Amazon.

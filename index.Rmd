@@ -1,16 +1,16 @@
 --- 
-title: "NAME OF WORKSHOP YEAR"
-author: "Faculty: INSTRUCTOR AND TA NAMES"
-date: "DATES"
+title: "Introductory Spatial 'Omics Analysis 2024"
+author: "Faculty: Shamini Ayyadhury, Ashleigh Willis, Farzaneh Aboualizadeh, Melanie Peralta, Trevor Pugh, Nia Hughes, Jennifer Law"
+date: "July 9, 2024 - July 10, 2024"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
-url: https://cbw-dev.github.io/bookdown-template/ # CHANGE THIS LINK TO YOUR LANDING PAGE LINK
+url: https://github.com/cbw-dev/ISO-2024 # CHANGE THIS LINK TO YOUR LANDING PAGE LINK
 cover-image: img/bioinformatics_logo.png
 description: |
   Workshop website for the YEAR WORKSHOP Canadian Bioinformatics Workshop
 link-citations: yes
-github-repo: cbw-dev/bookdown-template # CHANGE THIS TO YOUR OWN REPO
+github-repo: cbw-dev/ISO-2024 # CHANGE THIS TO YOUR OWN REPO
 favicon: img/favicon.ico
 ---
 
@@ -18,18 +18,26 @@ favicon: img/favicon.ico
 
 # Workshop Info
 
-Welcome to the YEAR WORKSHOP Canadian Bioinformatics Workshop webpage!  
-
-<!--## Class Photo
-
-After workshop concludes, YOUR EMBED CODE HERE-->
+Welcome to the 20224 Introductory Spatial 'Omics Analysis Canadian Bioinformatics Workshop webpage!  
 
 ## Schedule
 
-<!--Copy paste a table into https://www.tablesgenerator.com/markdown_tables (select convert to markdown) to create a table in markdown.   
--->
+| **Time (EST)** |                    **Day 1: July 9, 2024**                    | **Time (EST)** |      **Day 2: July 10, 2024**     |
+|:--------------:|:-------------------------------------------------------------:|:--------------:|:---------------------------------:|
+|      7:30      |               Arrivals, Check-in, and Breakfast               |      7:30      | Arrivals, Check-in, and Breakfast |
+|      8:30      | Welcome + introductions (Nia Hughes, Jennifer Law), AWS check |      9:00      |              Module 4             |
+|      8:45      |                     Keynote (Trevor Pugh)                     |      10:00     |               Break               |
+|      9:15      |                            Module 1                           |      10:30     |          Module 4, cont’d         |
+|      10:45     |                             Break                             |      12:00     |               Lunch               |
+|      11:00     |                       Module 1 (cont’d)                       |      12:45     |          Module 4, cont’d         |
+|      12:15     |                             Lunch                             |      2:45      |               Break               |
+|      1:00      |                            Module 2                           |      3:00      |              Module 5             |
+|      3:15      |                             Break                             |      4:00      |               Break               |
+|      3:30      |                            Module 3                           |      4:15      |              Module 6             |
+|      4:45      |                             Break                             |      5:00      |         Concluding Remarks        |
+|      5:00      |                        Module 3 cont’d                        |      5:30      |              Finished             |
+|      6:30      |                             Social                            |                |                                   |
 
 ## Pre-work
 
-<!--[You can find your pre-work here.](LINK TO PREWORK)
--->
+[You can find your pre-work here.](https://docs.google.com/forms/d/e/1FAIpQLSfumnxX1DmuJ9Ve8veUzTAxzwS7eKyA8DilyO7fUoHK_U4U1w/viewform)
