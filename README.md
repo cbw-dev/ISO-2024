@@ -1,9 +1,3 @@
-## CBW WORKSHOP YEAR
+## CBW Introductory Spatial 'Omics Analysis 2024
 
-[Workshop Website](YOUR WORKSHOP URL HERE)
-
-CITY, PROVINCE(S)  
-Instructors: INSTRUCTOR NAMES  
-TAs: TA NAMES
-
-OUTLINE HERE
+[Workshop Website](https://bioinformaticsdotca.github.io/ISO_2024/)

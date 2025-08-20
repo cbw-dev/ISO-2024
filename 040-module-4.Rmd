@@ -9,3 +9,5 @@
 <iframe src="https://drive.google.com/file/d/1UM9B6s4qgZdHT44fbs8vAI1_a24h-8mL/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Lab
+
+[Link to scripts](https://github.com/dr-sayyadhury/Introductory_Spatial_Analysis_Workshop___ISO_2024/tree/main/scripts/module4)

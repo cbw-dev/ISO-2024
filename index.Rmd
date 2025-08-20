@@ -1,16 +1,16 @@
 --- 
 title: "Introductory Spatial 'Omics Analysis 2024"
-author: "Faculty: Shamini Ayyadhury, Ashleigh Willis, Farzaneh Aboualizadeh, Melanie Peralta, Trevor Pugh, Nia Hughes, Jennifer Law"
+author: "Faculty: Shamini Ayyadhury, Ashleigh Willis, Farzaneh Aboualizadeh, Melanie Peralta, Trevor Pugh, Nia Hughes, and Jennifer Law"
 date: "July 9, 2024 - July 10, 2024"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
-url: https://github.com/cbw-dev/ISO-2024 # CHANGE THIS LINK TO YOUR LANDING PAGE LINK
+url: https://bioinformaticsdotca.github.io/ISO_2024/ # CHANGE THIS LINK TO YOUR LANDING PAGE LINK
 cover-image: img/bioinformatics_logo.png
 description: |
-  Workshop website for the YEAR WORKSHOP Canadian Bioinformatics Workshop
+  Workshop website for the 2024 Introductory Spatial 'Omics Analysis Canadian Bioinformatics Workshop
 link-citations: yes
-github-repo: cbw-dev/ISO-2024 # CHANGE THIS TO YOUR OWN REPO
+github-repo: bioinformaticsdotca/ISO-2024 # CHANGE THIS TO YOUR OWN REPO
 favicon: img/favicon.ico
 ---
 
@@ -22,7 +22,7 @@ Welcome to the 20224 Introductory Spatial 'Omics Analysis Canadian Bioinformatic
 
 ## Schedule
 
-| **Time (EST)** |                    **Day 1: July 9, 2024**                    | **Time (EST)** |      **Day 2: July 10, 2024**     |
+| **Time (EST)** |                    **July 9**                    | **Time (EST)** |      **July 10**     |
 |:--------------:|:-------------------------------------------------------------:|:--------------:|:---------------------------------:|
 |      7:30      |               Arrivals, Check-in, and Breakfast               |      7:30      | Arrivals, Check-in, and Breakfast |
 |      8:30      | Welcome + introductions (Nia Hughes, Jennifer Law), AWS check |      9:00      |              Module 4             |

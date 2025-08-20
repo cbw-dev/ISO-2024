@@ -1,5 +1,3 @@
-# (PART) Modules {-}
-
 # Module 1
 
 ## Lecture
